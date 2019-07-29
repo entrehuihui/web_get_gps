@@ -1,0 +1,11 @@
+version: '2.0'
+services:
+  getgps_app:
+    image: alpine:latest
+    build: .
+    ports:
+      - 8804:8804
+    volumes:
+      - $PWD:/getgps
+    working_dir: /getgps
+    command: ./getgps

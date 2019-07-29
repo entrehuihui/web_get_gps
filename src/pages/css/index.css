@@ -1,0 +1,87 @@
+
+.indexs{
+    width: 250px;
+    height: 400px;;
+    margin: auto;
+    padding-top: 200px;
+}
+.indexin{
+    position: relative;
+    float: left;
+    width: 210px;
+    height: 35px;
+    outline: none;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+    border: 1px solid rgb(168, 168, 168);
+    border-radius: 5px;
+    line-height: 35px;
+}
+#indexinbutton{
+    background: rgb(41, 130, 247);
+    text-align: center;
+    cursor: pointer;
+}
+.indexin:focus{
+    border: 1px solid rgb(72, 147, 245);
+}
+.gps1{
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    margin-top: 100px;
+}
+.gps2{
+    position: relative;
+    float: left;
+    width: 300px;
+    height: 35px;
+    line-height: 35px;
+}
+.gps3{
+    position: relative;
+    float: left;
+    width: 70px;
+    height: 35px;
+    text-align: right;
+}
+.gps4{
+    position: relative;
+    float: left;
+    width: 220px;
+    height: 35px;
+    text-align: center;
+    margin-left: 10px;
+}
+.gps5{
+    position: relative;
+    float: left;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 3px;
+    padding-left: 20px;
+    line-height: 30px;
+}
+.gps6{
+    position: relative;
+    float: left;
+    width: 70px;
+    height: 30px;;
+    border: 1px solid rgb(168, 168, 168);
+    margin-top: 3px;
+    line-height: 30px;
+    margin-left: 100px;
+    text-align: center;
+    border-radius: 5px;
+    background: rgb(81, 245, 16);
+}
+#disable1{
+    background: rgb(252, 20, 39);
+}
+#gps2able{
+    margin-top: 30px;
+}
